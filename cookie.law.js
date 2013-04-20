@@ -3,7 +3,7 @@
  */
 
 var eu_cookie_law_slug = 'eu-cookie-law';
-var eu_cookie_law_custom_message = 'Acest site foloseste cookies. Navigand in continuare va exprimati acordul asupra folosii cookie-urilor.';
+var eu_cookie_law_custom_message = 'Acest site foloseste cookies. Navigand in continuare va exprimati acordul asupra folosirii cookie-urilor.';
 
 document.body.insertAdjacentHTML('beforeEnd', '<div id="'+eu_cookie_law_slug+'" style="display:none;z-index:91234567;position:fixed;bottom:0px;width:100%;left:0;height:30px;line-height:30px;border:none;background-color:#F5DD88;color:#000;overflow:hidden;text-align:left;font-size:12px;font-family:arial;padding:0px 15px">'+eu_cookie_law_custom_message+'<a onclick="cookieLaw_hide()" style="cursor:pointer;text-decoration:none;background:red;color:#FFF;padding:3px 15px;margin-left:5px;">OK</a></div>' );
 
