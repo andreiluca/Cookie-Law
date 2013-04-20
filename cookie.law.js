@@ -1,3 +1,7 @@
+/**
+ * Small Cookie Law Script
+ */
+
 var eu_cookie_law_slug = 'eu-cookie-law';
 var eu_cookie_law_custom_message = 'Acest site foloseste cookies. Navigand in continuare va exprimati acordul asupra folosii cookie-urilor.';
 
