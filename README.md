@@ -2,5 +2,5 @@ Cookie-Law
 ==========
 
 ```html
-    <script type="text/javascript" src="cookie.law.min.js"></script>
+    <script type="text/javascript" src="http://andreiluca.github.io/Cookie-Law/cookie.law.min.js"></script>
 ```
