@@ -1,6 +1,8 @@
 ## Cookie-Law
+WordPress version available.
 
-### How to install
+
+## How to install
 ```html
     <script src="http://andreiluca.github.io/Cookie-Law/cookie.law.min.js"></script>
 ```
